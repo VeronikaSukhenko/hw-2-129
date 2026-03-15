@@ -1,0 +1,48 @@
+.list{
+list-style: none;}
+.link{
+    text-decoration: none;
+}
+
+
+/*!!!!!!!!!!!!!!!!!!!!!HEADER!!!!!!!!!!!!!!!!!!!*/
+
+.web{
+    color:#4D5AE5;
+}
+
+.menu-link:hover{
+    color: #404BBF;
+}
+.menu-link:focus{
+    color: #404BBF;
+}
+.contact-mailto:hover,
+:focus{
+    color: #404BBF;
+}
+
+/*!!!!!!!!!!!!!!!!!!!!!HERO SECTION!!!!!!!!!!!!!!!!!!!*/
+
+.hero{
+    background-color: #2E2F42;
+}
+.hero-button{
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+/*!!!!!!!!!!!!!!!!!!!!!FEATURES SECTION!!!!!!!!!!!!!!!!!!!*/
+
+
+
+/*!!!!!!!!!!!!!!!!!!!!!OUR TEAM SECTION!!!!!!!!!!!!!!!!!!!*/
+.team-sectiun{
+    background-color: #F4F4FD;
+}
+
+/*!!!!!!!!!!!!!!!!!!!!!FOOTER SECTION!!!!!!!!!!!!!!!!!!!*/
+
+.footer{
+    background-color: #2E2F42;
+}
